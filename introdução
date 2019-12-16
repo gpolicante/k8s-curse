@@ -1,0 +1,53 @@
+ Entender o funcionamento do Kubernetes;
+ Criar e Gerenciar Clusters;
+ Criar e Gerenciar Serviços;
+ Gerenciar Redes no Kubernetes;
+ Gerenciar Volumes Persistentes;
+ Deploy de Aplicações;
+ Escalonamento de Ambientes.
+ Introdução ao Kubernetes
+ Componentes do Cluster Kubernetes
+ Objetos do Cluster Kubernetes
+  Métodos de instalação
+ Instalação do Kubernetes
+ Configuração do Cluster Kubernetes
+ Gerenciar Nodes do Cluster Kubernetes
+ Atualizando o Cluster Kubernetes
+ Gerenciar Pods e Deployments
+ Backup e Restore do Cluster
+  Introdução a Redes no Kubernetes
+ Gerenciar NodePort
+ Gerenciar DNS
+ Gerenciar LoadBalancer
+ Instalar Ingress e HA Proxy
+ Gerenciar Ingress
+ Configurar Labels e seletores
+ Configurar Daemonsets
+ Configurar Limites
+ Configurar Cotas
+ Múltiplos schedulers e eventos
+  Configurar Rollback de Deploy
+ Configurar Jobs e Cronjob
+ Configurar Secrets e Configmaps
+ Escalamento de aplicações
+ Gerenciando ReplicaSet e StatefulSets
+  Introdução a Volumes no Kubernetes
+ Trabalhando com Volumes
+ Volume persistente no Kubernetes
+ Volume persistente com NFS
+ Configurar volumes com Configmaps
+ Converter Docker Compose para Kubernetes
+ Introdução a segurança no Kubernetes
+ Autenticando usuário de serviço
+ Criar certificados para o cliente
+ Autenticando usuário através de certificados
+ Definir contextos de segurança
+ Configurar politica de rede
+ Utilizar imagens com segurança
+ Gerenciar logs no Kubernetes
+ Monitorar componentes do Cluster
+ Configurar Liveness/Readiness
+ Troubleshooting Cluster Kubernetes
+ Troubleshooting en Pods
+ Instalação do Dashboard Kubernetes
+ 
